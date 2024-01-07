@@ -1,0 +1,9 @@
+pip~=23.1.2
+wheel~=0.40.0
+cryptography~=41.0.1
+lxml~=4.9.2
+Pillow~=9.5.0
+keyring~=23.13.1
+setuptools~=67.8.0
+telebot~=0.0.5
+requests~=2.31.0
